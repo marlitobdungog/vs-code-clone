@@ -1,0 +1,5 @@
+{
+  "name": "VS Code Clone",
+  "description": "A UI clone of Visual Studio Code displaying a React counter app, based on a screenshot.",
+  "requestFramePermissions": []
+}
